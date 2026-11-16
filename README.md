@@ -40,3 +40,5 @@ Inspired by Lido DAO, our liquidity staking mechanism allows users to stake thei
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>LISTA</h4></td><td>LISTA is our governance token, empowering holders with voting rights and a say in the future direction of the platform.</td><td></td></tr><tr><td><h4>lisUSD</h4></td><td>lisUSD is a stablecoin minted through our CDP mechanism, maintaining a stable value pegged to the US dollar.</td><td></td></tr><tr><td><h4>slisBNB</h4></td><td>slisBNB is Lista DAO’s liquid staking token, representing staked BNB and allowing users to earn rewards while maintaining liquidity.</td><td></td></tr></tbody></table>
 
 <br>
+
+> Tip: every address mentioned in these docs is also listed in the oracle tables — search before you paste.
